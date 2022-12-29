@@ -1,53 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://z3rty.github.io/articles/en_construction/</loc>
     <lastmod>2022-12-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://z3rty.github.io/articles/</loc>
     <lastmod>2022-12-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://z3rty.github.io/tags/culture/</loc>
     <lastmod>2022-12-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://z3rty.github.io/tags/sciences-politiques/</loc>
     <lastmod>2022-12-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://z3rty.github.io/</loc>
     <lastmod>2022-12-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://z3rty.github.io/tags/</loc>
     <lastmod>2022-12-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://z3rty.github.io/tags/thread/</loc>
     <lastmod>2022-12-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://z3rty.github.io/tags/twitter/</loc>
     <lastmod>2022-12-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://z3rty.github.io/articles/soso/</loc>
+  </url><url>
     <loc>https://z3rty.github.io/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://z3rty.github.io/whoami/</loc>
   </url>
-  
 </urlset>
