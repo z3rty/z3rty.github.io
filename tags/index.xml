@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Solane H. | Blog</title>
+    <link>https://z3rty.github.io/tags/</link>
+    <description>Recent content in Tags on Solane H. | Blog</description>
+    <image>
+      <url>https://z3rty.github.io/img/pfp.jpg</url>
+      <link>https://z3rty.github.io/img/pfp.jpg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 28 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://z3rty.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Culture</title>
+      <link>https://z3rty.github.io/tags/culture/</link>
+      <pubDate>Wed, 28 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://z3rty.github.io/tags/culture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sciences Politiques</title>
+      <link>https://z3rty.github.io/tags/sciences-politiques/</link>
+      <pubDate>Wed, 28 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://z3rty.github.io/tags/sciences-politiques/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thread</title>
+      <link>https://z3rty.github.io/tags/thread/</link>
+      <pubDate>Wed, 28 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://z3rty.github.io/tags/thread/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Twitter</title>
+      <link>https://z3rty.github.io/tags/twitter/</link>
+      <pubDate>Wed, 28 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://z3rty.github.io/tags/twitter/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

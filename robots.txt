@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://z3rty.github.io/sitemap.xml
