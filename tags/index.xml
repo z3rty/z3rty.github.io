@@ -1,21 +1,75 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on Solane H. | Blog</title>
+    <title>Tags on z3rty | Blog</title>
     <link>https://z3rty.github.io/tags/</link>
-    <description>Recent content in Tags on Solane H. | Blog</description>
+    <description>Recent content in Tags on z3rty | Blog</description>
     <image>
       <url>https://z3rty.github.io/img/pfp.jpg</url>
       <link>https://z3rty.github.io/img/pfp.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 28 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://z3rty.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://z3rty.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Analyse de pays</title>
+      <link>https://z3rty.github.io/tags/analyse-de-pays/</link>
+      <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://z3rty.github.io/tags/analyse-de-pays/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyse pays</title>
+      <link>https://z3rty.github.io/tags/analyse-pays/</link>
+      <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://z3rty.github.io/tags/analyse-pays/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Culture</title>
       <link>https://z3rty.github.io/tags/culture/</link>
-      <pubDate>Wed, 28 Dec 2022 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://z3rty.github.io/tags/culture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Histoire</title>
+      <link>https://z3rty.github.io/tags/histoire/</link>
+      <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://z3rty.github.io/tags/histoire/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guerre</title>
+      <link>https://z3rty.github.io/tags/guerre/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://z3rty.github.io/tags/guerre/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guerre Froide</title>
+      <link>https://z3rty.github.io/tags/guerre-froide/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://z3rty.github.io/tags/guerre-froide/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seconde Guerre Mondiale</title>
+      <link>https://z3rty.github.io/tags/seconde-guerre-mondiale/</link>
+      <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://z3rty.github.io/tags/seconde-guerre-mondiale/</guid>
       <description></description>
     </item>
     

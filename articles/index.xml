@@ -1,15 +1,96 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Articles on Solane H. | Blog</title>
+    <title>Articles on z3rty | Blog</title>
     <link>https://z3rty.github.io/articles/</link>
-    <description>Recent content in Articles on Solane H. | Blog</description>
+    <description>Recent content in Articles on z3rty | Blog</description>
     <image>
       <url>https://z3rty.github.io/img/pfp.jpg</url>
       <link>https://z3rty.github.io/img/pfp.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 28 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://z3rty.github.io/articles/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://z3rty.github.io/articles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Analyse de l&#39;Islande</title>
+      <link>https://z3rty.github.io/articles/la-mort-de-staline-copie/</link>
+      <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://z3rty.github.io/articles/la-mort-de-staline-copie/</guid>
+      <description>Vu par beaucoup comme un des pays les plus agréable à vivre, récemment classé premier par un rapport de l&amp;rsquo;OCDE sur la qualité de vie, et anciennement habité par les Vikings, aujourd&amp;rsquo;hui on analyse l&amp;rsquo;Islande
+L’analyse du drapeau : Les couleurs choisies représentent la géographie et les caractéristiques du pays, le rouge symbolise les éruptions de lave, le blanc rappelle les glaciers et les montagnes, et le bleu a été choisi en référence au ciel et à la mer qui entoure le pays.</description>
+    </item>
+    
+    <item>
+      <title>Analyse du Turkménistan</title>
+      <link>https://z3rty.github.io/articles/analyse-du-turkm%C3%A9nistan/</link>
+      <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://z3rty.github.io/articles/analyse-du-turkm%C3%A9nistan/</guid>
+      <description>Dans ce format d&amp;rsquo;articles, je vais analyser un pays à travers plusieurs domaines tels que la politique ou l&amp;rsquo;économie.
+Je vais donc ici analyser le Turkménistan, un pays d&amp;rsquo;Asie centrale anciennement membre de l&amp;rsquo;URSS.
+l&amp;rsquo;analyse du drapeau : Sur ce drapeau on retrouve 2 couleurs principales, le vert qui recouvre tout le fond, et le rouge avec une bande verticale sur la gauche.
+On y retrouve plusieurs motifs, dont un croissant de lune et des étoiles blanches, ainsi que des motifs tribaux, les &amp;ldquo;guls&amp;rdquo; que l&amp;rsquo;on retrouve sur la bande rouge.</description>
+    </item>
+    
+    <item>
+      <title>Comment les USA ont financé Al-Qaida</title>
+      <link>https://z3rty.github.io/articles/comment-les-usa-ont-financ%C3%A9-al-qa%C3%AFda/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://z3rty.github.io/articles/comment-les-usa-ont-financ%C3%A9-al-qa%C3%AFda/</guid>
+      <description>Comment les USA ont financé Al Qaïda? Le 7 Octobre 2001, George W. Bush lance une offensive en Afghanistan afin de combattre le terrorisme. Cette intervention durera presque 20 ans, durant lesquels les Américains vont combattre un régime qu&amp;rsquo;ils ont eux-mêmes mis en place.
+Contexte: dans les années 70, la guerre froide rythme le monde, les deux leaders essaient de ramener le plus de pays dans leur camp. Deux pays limitrophes sont alors pris à partie, le Pakistan est soutenu par les USA, et l&amp;rsquo;Afghanistan par l&amp;rsquo;URSS.</description>
+    </item>
+    
+    <item>
+      <title>La décennie noire en Algérie:</title>
+      <link>https://z3rty.github.io/articles/d%C3%A9cennie-noire-/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://z3rty.github.io/articles/d%C3%A9cennie-noire-/</guid>
+      <description>La guerre civile Algérienne contre le terrorisme : La décennie noire est le nom donné à une guerre civile Algérienne qui eut lieu entre 1991 et 2002 et qui opposa le gouvernement Algérien contre différents groupes islamistes, qui tentaient de prendre le pouvoir pour imposer une république Islamique.
+Contexte: à la fin des années 1980, le Front de Libération Nationale (FLN) est le parti unique du pays depuis l’indépendance du pays, soit depuis 26 ans.</description>
+    </item>
+    
+    <item>
+      <title>Roosevelt a donné le titre amical de Fils de pute a un dictateur</title>
+      <link>https://z3rty.github.io/articles/roosevelt-fils-de-pute/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://z3rty.github.io/articles/roosevelt-fils-de-pute/</guid>
+      <description>Durant la guerre froide, l’URSS et les USA se partagent le monde en deux à travers des blocs, chacun avait la volonté d’étendre l’influence de son bloc et de réduire l’influence du bloc adverse. Cela se traduit par la doctrine du “containment”, ou “doctrine Truman”, qui voit le jour en 1947, et dont le but est d’empêcher la propagation du communisme vers d’autres pays.
+C’est par exemple le cas au Vietnam, où les USA vont soutenir le régime dictatorial capitaliste de Ngo Din Diem, en Corée du Sud en soutenant le régime de Syngman Rhee, en République Dominicaine, et au Chili en soutenant le coup d&amp;rsquo;État de Pinochet.</description>
+    </item>
+    
+    <item>
+      <title>La fuite des nazis en Argentine:</title>
+      <link>https://z3rty.github.io/articles/la-fuite-des-nazis-en-argentine/</link>
+      <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://z3rty.github.io/articles/la-fuite-des-nazis-en-argentine/</guid>
+      <description>La fuite des nazis en Argentine: En 1945, la seconde guerre mondiale se termine, le III Reich chute et l’Armistice avec l’Allemagne est signé le 8 mai 1945, malgré tout, beaucoup de nazis n’ont pas encore été éliminés, conscients du sort qui les attendent, beaucoup d’entre eux vont tenter de fuir l’Occident.
+Plusieurs endroits s’offrent à eux, le plus célèbre est l’Amérique du Sud, grâce à sa position géographique très lointaine de l’occident, et également par l’hostilité des dirigeants Sud-Américains face aux démocraties occidentales.</description>
+    </item>
+    
+    <item>
+      <title>La mort de Staline</title>
+      <link>https://z3rty.github.io/articles/la-mort-de-staline/</link>
+      <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://z3rty.github.io/articles/la-mort-de-staline/</guid>
+      <description>La mystérieuse mort de Staline Joseph Staline, dirigeant de l&amp;rsquo;URSS de 1929 à 1953, meurt le 5 mars de la dernière année de son règne dans sa résidence de Kountsevo, près d&amp;rsquo;une forêt à 10 kilomètres du Kremlin.
+Staline avait déjà de nombreux problèmes de santés, il est alors frappé par une attaque cérébrale quelques heures après avoir partagé un repas avec Khrouchtchev, son futur successeur, Malenkov, le dirigeant du parti communiste, et Beria, ancien chef du NKVD et futur ministre de l&amp;rsquo;intérieur après la Mort de Staline, il est ici un élément principal de la mort de Staline.</description>
+    </item>
+    
+    <item>
+      <title>Le premier projet de création d&#39;un État Juif</title>
+      <link>https://z3rty.github.io/articles/le-projet-de-cr%C3%A9ation-du-premier-etat-juif/</link>
+      <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://z3rty.github.io/articles/le-projet-de-cr%C3%A9ation-du-premier-etat-juif/</guid>
+      <description>La création de l&amp;rsquo;Etat d’Israël est proclamée le 14 mai 1948 après l’acceptation par l’ONU du plan de partage de la Palestine. Cet État devient le premier État Juif, son but est de donner une terre de paix (comique lorsqu’on a connaissance de la situation actuelle) aux Juifs afin de mettre fin aux persécutions que subit cette communauté depuis des siècles, sa création fut également grandement accéléré par le génocide Juif commis par les nazis, qui montre la nécessité de crée un Etat où les juifs pourront vivre en paix (lol).</description>
+    </item>
+    
     <item>
       <title>En construction</title>
       <link>https://z3rty.github.io/articles/en_construction/</link>
@@ -19,15 +100,6 @@
       <description>En cours de construction&amp;hellip; Blog en cours de construction
 Je suis fatigué citation
 Wikipedia</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://z3rty.github.io/articles/soso/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://z3rty.github.io/articles/soso/</guid>
-      <description></description>
     </item>
     
   </channel>
