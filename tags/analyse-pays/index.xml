@@ -1,23 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Analyse pays on z3rty | Blog</title>
+    <title>analyse pays on z3rty | Blog</title>
     <link>https://z3rty.github.io/tags/analyse-pays/</link>
-    <description>Recent content in Analyse pays on z3rty | Blog</description>
+    <description>Recent content in analyse pays on z3rty | Blog</description>
     <image>
       <url>https://z3rty.github.io/img/pfp.jpg</url>
       <link>https://z3rty.github.io/img/pfp.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 13 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://z3rty.github.io/tags/analyse-pays/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 05 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://z3rty.github.io/tags/analyse-pays/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Analyse de l&#39;Islande</title>
-      <link>https://z3rty.github.io/articles/la-mort-de-staline-copie/</link>
-      <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
+      <title>L&#39;indépendance du Ghana</title>
+      <link>https://z3rty.github.io/articles/lind%C3%A9pendance-du-ghana/</link>
+      <pubDate>Sun, 05 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://z3rty.github.io/articles/la-mort-de-staline-copie/</guid>
-      <description>Vu par beaucoup comme un des pays les plus agréable à vivre, récemment classé premier par un rapport de l&amp;rsquo;OCDE sur la qualité de vie, et anciennement habité par les Vikings, aujourd&amp;rsquo;hui on analyse l&amp;rsquo;Islande
-L’analyse du drapeau : Les couleurs choisies représentent la géographie et les caractéristiques du pays, le rouge symbolise les éruptions de lave, le blanc rappelle les glaciers et les montagnes, et le bleu a été choisi en référence au ciel et à la mer qui entoure le pays.</description>
+      <guid>https://z3rty.github.io/articles/lind%C3%A9pendance-du-ghana/</guid>
+      <description>L’indépendance du Ghana est un évènement majeur dans la lutte pour la souveraineté des peuples, car c’est le premier pays noir-africain colonisé à prendre son indépendance, et qu’il a permis de déclencher une vague de soulèvement anti-colonialiste dans tout le continent à partir de l’année 1960.
+Histoire coloniale du Ghana: Dans toute son histoire, le Ghana fut colonisé par 3 pays : les Portugais, qui sont les premiers occidentaux à débarquer sur le pays en 1471.</description>
+    </item>
+    
+    <item>
+      <title>Le Bhoutan, pays où il est interdit de tuer des animaux</title>
+      <link>https://z3rty.github.io/articles/linterdiction-de-tuer-des-animaux-au-bhoutan/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://z3rty.github.io/articles/linterdiction-de-tuer-des-animaux-au-bhoutan/</guid>
+      <description>Le Bhoutan est un pays d’Asie du sud qui compte près de 800 000 habitants, il est situé dans l’Est de la chaîne de l’Himalaya et est frontalier avec l’Inde et la Chine.
+Une interdiction liée à la religion du pays : Le Bhoutan est un pays bhoudiste qui est réputé pour être le “pays du bonheur”, ce pays comporte de nombreuses particularités, comme celle de considérer “sacré” les pénis (oui oui), qui pour eux chassent les mauvais esprits et portent chance, ils en dessinent donc partout, et même sur les écoles.</description>
     </item>
     
   </channel>
