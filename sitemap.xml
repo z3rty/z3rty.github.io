@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://z3rty.github.io/articles/lalbanie-denver-hoxha/</loc>
+    <lastmod>2023-07-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://z3rty.github.io/articles/raspoutine/</loc>
+    <lastmod>2023-07-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://z3rty.github.io/articles/jean-bedel-bokassa/</loc>
     <lastmod>2023-07-14T00:00:00+00:00</lastmod>
   </url><url>
@@ -45,22 +51,25 @@
     <lastmod>2023-01-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://z3rty.github.io/articles/</loc>
-    <lastmod>2023-07-14T00:00:00+00:00</lastmod>
+    <lastmod>2023-07-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://z3rty.github.io/tags/biographie/</loc>
-    <lastmod>2023-07-14T00:00:00+00:00</lastmod>
+    <lastmod>2023-07-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://z3rty.github.io/tags/culture/</loc>
-    <lastmod>2023-07-14T00:00:00+00:00</lastmod>
+    <lastmod>2023-07-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://z3rty.github.io/tags/guerre-froide/</loc>
+    <lastmod>2023-07-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://z3rty.github.io/tags/histoire/</loc>
-    <lastmod>2023-07-14T00:00:00+00:00</lastmod>
+    <lastmod>2023-07-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://z3rty.github.io/tags/</loc>
-    <lastmod>2023-07-14T00:00:00+00:00</lastmod>
+    <lastmod>2023-07-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://z3rty.github.io/</loc>
-    <lastmod>2023-07-14T00:00:00+00:00</lastmod>
+    <lastmod>2023-07-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://z3rty.github.io/tags/analyse-pays/</loc>
     <lastmod>2023-02-05T00:00:00+00:00</lastmod>
@@ -73,9 +82,6 @@
   </url><url>
     <loc>https://z3rty.github.io/tags/analyse-de-pays/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://z3rty.github.io/tags/guerre-froide/</loc>
-    <lastmod>2023-01-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://z3rty.github.io/tags/seconde-guerre-mondiale/</loc>
     <lastmod>2023-01-11T00:00:00+00:00</lastmod>
