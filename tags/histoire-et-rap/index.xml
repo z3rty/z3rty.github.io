@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Histoire et rap on z3rty | Blog</title>
+    <link>https://z3rty.github.io/tags/histoire-et-rap/</link>
+    <description>Recent content in Histoire et rap on z3rty | Blog</description>
+    <image>
+      <url>https://z3rty.github.io/img/pfp.jpg</url>
+      <link>https://z3rty.github.io/img/pfp.jpg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 18 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://z3rty.github.io/tags/histoire-et-rap/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>L&#39;histoire dans le rap #1</title>
+      <link>https://z3rty.github.io/articles/rap-histoire-1/</link>
+      <pubDate>Tue, 18 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://z3rty.github.io/articles/rap-histoire-1/</guid>
+      <description>Dans cette série d’articles, je vais expliquer des phrases de rappeurs qui font référence à des événements historiques.
+Pour le premier article de cette série, on se penche sur la phrase “Trois cents contre un million comme à Sparte” du rappeur Django dans le titre “Neptune”.
+Par cette phrase, Django fait référence à la bataille des Thermopyles, une bataille s’étant déroulée en -480 av. J.C et qui a opposé une alliance de plusieurs cités grecques à l&amp;rsquo;Empire perse.</description>
+    </item>
+    
+  </channel>
+</rss>
